@@ -1,0 +1,30 @@
+{
+  "_comment": "Edit to regroup bots. Map agent ids (preferred) or exact bot names to a cluster key. Any bot not listed lands in 'other'. 'labels' overrides display names (used to tell the two Bot Terminators apart).",
+  "clusters": [
+    {"key": "leadership", "name": "Leadership",       "color": "#ffb347"},
+    {"key": "operations", "name": "Operations",       "color": "#4fd1c5"},
+    {"key": "brand",      "name": "Brand & Social",   "color": "#f472b6"},
+    {"key": "build",      "name": "Build",            "color": "#60a5fa"},
+    {"key": "projects",   "name": "Projects & Rooms", "color": "#a78bfa"},
+    {"key": "other",      "name": "Other",            "color": "#94a3b8"}
+  ],
+  "assign": {
+    "31d97c13-c84a-4615-a10b-23e9529e2540": "leadership",
+    "b6468a34-18e2-4b09-bae5-f5aacfa6041d": "leadership",
+    "a46685f0-4e85-40bd-ab7e-1e251cc16e7a": "leadership",
+    "54a240c6-6fd5-41c7-81cb-b37217633b6b": "operations",
+    "36a8850f-c503-4f7b-ba2f-e0575624d55f": "operations",
+    "0bed882c-a614-47fb-aade-0e012ceb7562": "brand",
+    "69b8367a-bdd5-4d0d-b07f-a2b56ceeb51b": "brand",
+    "b15ad3de-88e9-4ddd-ab46-97443043efae": "brand",
+    "c8486ae2-b103-43fc-ac14-c1c5271e440e": "brand",
+    "3a0ec313-1a22-4d47-b916-3dfa21728c3e": "build",
+    "9662da74-d8ec-4938-a7dd-6be206001738": "build",
+    "0114f8a1-6bbc-4e86-ba4c-8754aa02c291": "projects",
+    "9b046aa1-e153-43e7-9393-75940531a013": "projects"
+  },
+  "labels": {
+    "b15ad3de-88e9-4ddd-ab46-97443043efae": "Bot Terminator",
+    "c8486ae2-b103-43fc-ac14-c1c5271e440e": "Bot Terminator 2"
+  }
+}
