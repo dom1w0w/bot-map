@@ -27,7 +27,7 @@ F.live = function(el, data, err){
   if (!el) return;
   if (!data){ el.className = "live bad"; el.innerHTML = "<i></i>OFFLINE"; return; }
   const age = Date.now() - data.generatedAt;
-  const cls = age < 4*60000 ? "ok" : age < 15*60000 ? "warn" : "bad";
+  const cls = age < 7*60000 ? "ok" : age < 15*60000 ? "warn" : "bad";
   el.className = "live " + cls + (err ? " stale" : "");
   el.innerHTML = "<i></i>" + (cls === "bad" ? "STALE" : "LIVE") + " · feed " + F.ago(data.generatedAt).replace(" ago", " old");
   el.title = "Feed generated " + new Date(data.generatedAt).toLocaleString() + (err ? " (last fetch failed, showing previous data)" : "") + ". The feed is published from Dom's box every 90s–10min; GitHub's raw CDN can add up to ~5 min of caching.";

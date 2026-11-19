@@ -8,7 +8,7 @@ A live, animated map of Dom's bots. The page is static (GitHub Pages, `main` bra
 ## How it stays live
 - **Box refresher** (`/workspace/bot-map/refresher.py`) runs every 90s. It rebuilds `status.json` from bot profiles and from message *timestamps and sender type only*. It never includes message text. It pushes to the `feed` branch only when the data changed, and at least every 10 min as a heartbeat.
 - The `feed` branch is not the Pages source, so feed pushes don't trigger Pages builds.
-- The page re-fetches the feed every 60s and animates any changes. `raw.githubusercontent.com` caches for up to ~5 min, so the **LIVE badge shows the feed's real age** (based on `generatedAt`). It turns amber after 4 min and red/STALE after 15 min.
+- The page re-fetches the feed every 60s and animates any changes. `raw.githubusercontent.com` caches for up to ~5 min, so the **LIVE badge shows the feed's real age** (based on `generatedAt`). Normal lag is ~1.5–6.5 min (90s refresh + raw CDN cache, which ignores query strings). It turns amber after 7 min and red/STALE after 15 min.
 
 ## Restart the refresher (on the box)
 ```bash
