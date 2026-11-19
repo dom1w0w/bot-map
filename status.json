@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795102819128,
+ "generatedAt": 1795102909540,
  "clusters": [
   {
    "key": "leadership",
@@ -84,8 +84,8 @@
    "name": "Executive Assistant",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795102808732,
-   "events24h": 43,
+   "lastActive": 1795102818840,
+   "events24h": 44,
    "doing": "Working"
   },
   {
@@ -144,6 +144,11 @@
   }
  ],
  "recent": [
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102818840
+  },
   {
    "bot": "f129d52356",
    "kind": "message",
@@ -338,11 +343,6 @@
    "bot": "e0f5d1b2f5",
    "kind": "reply",
    "t": 1795097752888
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795097742084
   }
  ]
 }
