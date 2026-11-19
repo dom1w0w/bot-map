@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795102638258,
+ "generatedAt": 1795102728682,
  "clusters": [
   {
    "key": "leadership",
@@ -84,8 +84,8 @@
    "name": "Executive Assistant",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795102621619,
-   "events24h": 30,
+   "lastActive": 1795102725557,
+   "events24h": 35,
    "doing": "Working"
   },
   {
@@ -144,6 +144,31 @@
   }
  ],
  "recent": [
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102725557
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102689369
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102685796
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102662509
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102656976
+  },
   {
    "bot": "f129d52356",
    "kind": "reply",
@@ -318,31 +343,6 @@
    "bot": "e0f5d1b2f5",
    "kind": "reply",
    "t": 1795097686327
-  },
-  {
-   "bot": "cb199ff9ed",
-   "kind": "message",
-   "t": 1795097686267
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795097682437
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "message",
-   "t": 1795097680908
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795097661912
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "message",
-   "t": 1795097658378
   }
  ]
 }
