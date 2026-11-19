@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795102728682,
+ "generatedAt": 1795102819128,
  "clusters": [
   {
    "key": "leadership",
@@ -84,8 +84,8 @@
    "name": "Executive Assistant",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795102725557,
-   "events24h": 35,
+   "lastActive": 1795102808732,
+   "events24h": 43,
    "doing": "Working"
   },
   {
@@ -144,6 +144,46 @@
   }
  ],
  "recent": [
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102808732
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102788621
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102784893
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102772846
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102749000
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102745862
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102744159
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102730028
+  },
   {
    "bot": "f129d52356",
    "kind": "message",
@@ -303,46 +343,6 @@
    "bot": "3948652ff2",
    "kind": "reply",
    "t": 1795097742084
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795097736202
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795097732021
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795097729112
-  },
-  {
-   "bot": "cb199ff9ed",
-   "kind": "reply",
-   "t": 1795097724742
-  },
-  {
-   "bot": "cb199ff9ed",
-   "kind": "reply",
-   "t": 1795097709009
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "message",
-   "t": 1795097708935
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795097700525
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795097686327
   }
  ]
 }
