@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795067147808,
+ "generatedAt": 1795067509028,
  "clusters": [
   {
    "key": "leadership",
@@ -125,15 +125,6 @@
    "doing": "Idle"
   },
   {
-   "id": "ffbb7f7041",
-   "name": "Bot Terminator",
-   "cluster": "brand",
-   "role": "Clean bot, spam and long-inactive followers off your X account, and remove your account from unwanted lists on X.",
-   "lastActive": null,
-   "events24h": 0,
-   "doing": "Idle"
-  },
-  {
    "id": "3948652ff2",
    "name": "Chief Of Staff",
    "cluster": "leadership",
@@ -143,16 +134,26 @@
    "doing": "Standing by"
   },
   {
-   "id": "5dfb9841f3",
-   "name": "Bot Terminator 2",
-   "cluster": "brand",
-   "role": "Clean bot, spam and long-inactive followers off your X account, and remove your account from unwanted lists on X.",
-   "lastActive": null,
-   "events24h": 0,
-   "doing": "Idle"
+   "id": "9656035676",
+   "name": "Use Cases",
+   "cluster": "other",
+   "role": "Finds real Grok Bot use cases trending on X and helps you start one or build your own.",
+   "lastActive": 1795067445277,
+   "events24h": 2,
+   "doing": "Working"
   }
  ],
  "recent": [
+  {
+   "bot": "9656035676",
+   "kind": "reply",
+   "t": 1795067445277
+  },
+  {
+   "bot": "9656035676",
+   "kind": "reply",
+   "t": 1795067432723
+  },
   {
    "bot": "73c302280f",
    "kind": "reply",
@@ -342,16 +343,6 @@
    "bot": "3948652ff2",
    "kind": "reply",
    "t": 1794984591454
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "message",
-   "t": 1794984590056
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "message",
-   "t": 1794984585070
   }
  ]
 }
