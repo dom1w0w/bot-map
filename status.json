@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795067781410,
+ "generatedAt": 1795070801414,
  "clusters": [
   {
    "key": "leadership",
@@ -58,7 +58,7 @@
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795067066437,
-   "events24h": 8,
+   "events24h": 7,
    "doing": "Standing by"
   },
   {
@@ -130,7 +130,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795065504462,
-   "events24h": 61,
+   "events24h": 36,
    "doing": "Standing by"
   },
   {
@@ -140,7 +140,7 @@
    "role": "Finds real Grok Bot use cases trending on X and helps you start one or build your own.",
    "lastActive": 1795067754646,
    "events24h": 3,
-   "doing": "Working"
+   "doing": "Standing by"
   }
  ],
  "recent": [
