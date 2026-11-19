@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795065010416,
+ "generatedAt": 1795065191561,
  "clusters": [
   {
    "key": "leadership",
@@ -104,7 +104,7 @@
    "role": "Builds and runs a live, animated map of every bot you run.",
    "lastActive": 1795064589056,
    "events24h": 7,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "cacb6cd5a8",
