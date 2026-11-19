@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795065550872,
+ "generatedAt": 1795065642092,
  "clusters": [
   {
    "key": "leadership",
@@ -102,9 +102,9 @@
    "name": "Live Bot Map",
    "cluster": "build",
    "role": "Builds and runs a live, animated map of every bot you run.",
-   "lastActive": 1795064589056,
-   "events24h": 7,
-   "doing": "Standing by"
+   "lastActive": 1795065553132,
+   "events24h": 8,
+   "doing": "Working"
   },
   {
    "id": "cacb6cd5a8",
@@ -153,6 +153,11 @@
   }
  ],
  "recent": [
+  {
+   "bot": "8ef6c6b509",
+   "kind": "reply",
+   "t": 1795065553132
+  },
   {
    "bot": "3948652ff2",
    "kind": "reply",
@@ -347,11 +352,6 @@
    "bot": "3948652ff2",
    "kind": "message",
    "t": 1794984482648
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1794984470460
   }
  ]
 }
