@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795076771444,
+ "generatedAt": 1795076955170,
  "clusters": [
   {
    "key": "leadership",
@@ -138,12 +138,42 @@
    "name": "Lilith",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795076744030,
-   "events24h": 14,
+   "lastActive": 1795076940612,
+   "events24h": 20,
    "doing": "Working"
   }
  ],
  "recent": [
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795076940612
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795076937572
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795076901740
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795076897523
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795076886386
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795076881217
+  },
   {
    "bot": "e0f5d1b2f5",
    "kind": "reply",
@@ -313,36 +343,6 @@
    "bot": "8ef6c6b509",
    "kind": "reply",
    "t": 1795064399301
-  },
-  {
-   "bot": "8ef6c6b509",
-   "kind": "reply",
-   "t": 1795064391865
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795012677342
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795012675715
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795008596944
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795008577165
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795008539707
   }
  ]
 }
