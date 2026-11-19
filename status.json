@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795098214224,
+ "generatedAt": 1795099192687,
  "clusters": [
   {
    "key": "leadership",
@@ -86,7 +86,7 @@
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
    "lastActive": 1795097652140,
    "events24h": 11,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "cb199ff9ed",
@@ -95,7 +95,7 @@
    "role": "Social media expert — content, captions, growth, and channel strategy across platforms.",
    "lastActive": 1795097724742,
    "events24h": 8,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "8ef6c6b509",
@@ -130,8 +130,8 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795097759099,
-   "events24h": 21,
-   "doing": "Working"
+   "events24h": 19,
+   "doing": "Standing by"
   },
   {
    "id": "e0f5d1b2f5",
@@ -140,7 +140,7 @@
    "role": "Bot.",
    "lastActive": 1795097794416,
    "events24h": 64,
-   "doing": "Working"
+   "doing": "Standing by"
   }
  ],
  "recent": [
