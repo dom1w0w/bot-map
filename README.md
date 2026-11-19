@@ -12,7 +12,7 @@ A live, animated map of Dom's bots. The page is static (GitHub Pages, `main` bra
 
 ## Restart the refresher (on the box)
 ```bash
-cd /workspace/bot-map && nohup python3 refresher.py >> refresher.log 2>&1 & echo $! > refresher.pid
+cd /workspace/bot-map && pkill -f "python3 refresher.py"; setsid nohup python3 refresher.py >> refresher.log 2>&1 < /dev/null & echo $! > refresher.pid
 ```
 Stop it: `kill $(cat /workspace/bot-map/refresher.pid)` · Logs: `tail -f /workspace/bot-map/refresher.log`
 
