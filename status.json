@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795077135918,
+ "generatedAt": 1795077226299,
  "clusters": [
   {
    "key": "leadership",
@@ -129,8 +129,8 @@
    "name": "Chief Of Staff",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
-   "lastActive": 1795077131563,
-   "events24h": 18,
+   "lastActive": 1795077168416,
+   "events24h": 22,
    "doing": "Working"
   },
   {
@@ -138,12 +138,47 @@
    "name": "Lilith",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795077123138,
-   "events24h": 45,
+   "lastActive": 1795077181808,
+   "events24h": 48,
    "doing": "Working"
   }
  ],
  "recent": [
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795077181808
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795077174425
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795077168416
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795077164464
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795077162364
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795077162276
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795077134443
+  },
   {
    "bot": "3948652ff2",
    "kind": "message",
@@ -308,41 +343,6 @@
    "bot": "3948652ff2",
    "kind": "reply",
    "t": 1795077028876
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795077020579
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "message",
-   "t": 1795077020014
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795077017244
-  },
-  {
-   "bot": "4be23a2450",
-   "kind": "message",
-   "t": 1795077017184
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795077013680
-  },
-  {
-   "bot": "92bec0342b",
-   "kind": "message",
-   "t": 1795077013626
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795077010088
   }
  ]
 }
