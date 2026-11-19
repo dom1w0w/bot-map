@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795075928163,
+ "generatedAt": 1795076679759,
  "clusters": [
   {
    "key": "leadership",
@@ -59,7 +59,7 @@
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795075914991,
    "events24h": 7,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "972d8ca6dc",
@@ -139,8 +139,8 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795075922802,
-   "events24h": 8,
-   "doing": "Working"
+   "events24h": 9,
+   "doing": "Standing by"
   }
  ],
  "recent": [
@@ -153,6 +153,11 @@
    "bot": "73c302280f",
    "kind": "reply",
    "t": 1795075914991
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795075914947
   },
   {
    "bot": "e0f5d1b2f5",
@@ -338,11 +343,6 @@
    "bot": "f129d52356",
    "kind": "reply",
    "t": 1795007615446
-  },
-  {
-   "bot": "f129d52356",
-   "kind": "reply",
-   "t": 1795007612407
   }
  ]
 }
