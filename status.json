@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795102276384,
+ "generatedAt": 1795102366858,
  "clusters": [
   {
    "key": "leadership",
@@ -84,9 +84,9 @@
    "name": "Executive Assistant",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795097652140,
-   "events24h": 11,
-   "doing": "Standing by"
+   "lastActive": 1795102181585,
+   "events24h": 26,
+   "doing": "Working"
   },
   {
    "id": "cb199ff9ed",
@@ -129,8 +129,8 @@
    "name": "Chief Of Staff",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
-   "lastActive": 1795097759099,
-   "events24h": 19,
+   "lastActive": 1795099132541,
+   "events24h": 20,
    "doing": "Standing by"
   },
   {
@@ -144,6 +144,86 @@
   }
  ],
  "recent": [
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102181585
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102130213
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102126261
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102123847
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102118432
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102099767
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102096776
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102096293
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795102092368
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795102088956
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795101579612
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795101573948
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795101471365
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "message",
+   "t": 1795101457568
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795100239724
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795099132541
+  },
   {
    "bot": "e0f5d1b2f5",
    "kind": "reply",
@@ -263,86 +343,6 @@
    "bot": "e0f5d1b2f5",
    "kind": "message",
    "t": 1795097642828
-  },
-  {
-   "bot": "f129d52356",
-   "kind": "reply",
-   "t": 1795097633580
-  },
-  {
-   "bot": "f129d52356",
-   "kind": "message",
-   "t": 1795097625604
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795097624333
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "message",
-   "t": 1795097613038
-  },
-  {
-   "bot": "f129d52356",
-   "kind": "reply",
-   "t": 1795097605164
-  },
-  {
-   "bot": "f129d52356",
-   "kind": "message",
-   "t": 1795097595822
-  },
-  {
-   "bot": "f129d52356",
-   "kind": "reply",
-   "t": 1795094116614
-  },
-  {
-   "bot": "f129d52356",
-   "kind": "reply",
-   "t": 1795094113285
-  },
-  {
-   "bot": "92bec0342b",
-   "kind": "reply",
-   "t": 1795090538522
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795077181808
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795077174425
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795077168416
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795077164464
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795077162364
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "message",
-   "t": 1795077162276
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795077134443
   }
  ]
 }
