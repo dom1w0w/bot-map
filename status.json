@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795151900362,
+ "generatedAt": 1795151990754,
  "clusters": [
   {
    "key": "leadership",
@@ -103,7 +103,7 @@
    "cluster": "build",
    "role": "Builds and runs a live, animated map of every bot you run.",
    "lastActive": 1795066013107,
-   "events24h": 4,
+   "events24h": 3,
    "doing": "Standing by"
   },
   {
@@ -130,7 +130,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795150405444,
-   "events24h": 45,
+   "events24h": 44,
    "doing": "Standing by"
   },
   {
