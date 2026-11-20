@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795183939778,
+ "generatedAt": 1795184030178,
  "clusters": [
   {
    "key": "leadership",
@@ -85,7 +85,7 @@
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
    "lastActive": 1795116253682,
-   "events24h": 44,
+   "events24h": 41,
    "doing": "Standing by"
   },
   {
@@ -139,7 +139,7 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795150457930,
-   "events24h": 97,
+   "events24h": 95,
    "doing": "Standing by"
   }
  ],
