@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795151629247,
+ "generatedAt": 1795151719638,
  "clusters": [
   {
    "key": "leadership",
@@ -130,7 +130,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795150405444,
-   "events24h": 47,
+   "events24h": 46,
    "doing": "Standing by"
   },
   {
