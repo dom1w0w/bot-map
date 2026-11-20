@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795201568944,
+ "generatedAt": 1795202034679,
  "clusters": [
   {
    "key": "leadership",
@@ -67,7 +67,7 @@
    "cluster": "operations",
    "role": "Dom's ongoing financial advisor — bills, debt payoff, cash flow, paychecks, and long-term stacking beyond the Vegas trip.",
    "lastActive": 1795115690158,
-   "events24h": 7,
+   "events24h": 3,
    "doing": "Standing by"
   },
   {
@@ -130,7 +130,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795150405444,
-   "events24h": 15,
+   "events24h": 12,
    "doing": "Standing by"
   },
   {
@@ -139,7 +139,7 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795150457930,
-   "events24h": 25,
+   "events24h": 21,
    "doing": "Standing by"
   }
  ],
