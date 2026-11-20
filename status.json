@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795184120611,
+ "generatedAt": 1795184292915,
  "clusters": [
   {
    "key": "leadership",
@@ -94,7 +94,7 @@
    "cluster": "brand",
    "role": "Social media expert — content, captions, growth, and channel strategy across platforms.",
    "lastActive": 1795113851707,
-   "events24h": 10,
+   "events24h": 9,
    "doing": "Standing by"
   },
   {
@@ -130,7 +130,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795150405444,
-   "events24h": 33,
+   "events24h": 28,
    "doing": "Standing by"
   },
   {
@@ -139,7 +139,7 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795150457930,
-   "events24h": 86,
+   "events24h": 81,
    "doing": "Standing by"
   }
  ],
