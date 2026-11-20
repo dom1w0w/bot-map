@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795189434754,
+ "generatedAt": 1795190057356,
  "clusters": [
   {
    "key": "leadership",
@@ -49,7 +49,7 @@
    "cluster": "brand",
    "role": "Dom's graphic designer for 7EightMade and Cosmic Terminal — create and refine images, layouts, and brand assets.",
    "lastActive": 1795113847636,
-   "events24h": 9,
+   "events24h": 6,
    "doing": "Standing by"
   },
   {
@@ -58,7 +58,7 @@
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795151773453,
-   "events24h": 24,
+   "events24h": 18,
    "doing": "Standing by"
   },
   {
@@ -67,7 +67,7 @@
    "cluster": "operations",
    "role": "Dom's ongoing financial advisor — bills, debt payoff, cash flow, paychecks, and long-term stacking beyond the Vegas trip.",
    "lastActive": 1795115690158,
-   "events24h": 16,
+   "events24h": 13,
    "doing": "Standing by"
   },
   {
@@ -76,7 +76,7 @@
    "cluster": "build",
    "role": "Dom's Web Architect.",
    "lastActive": 1795113828991,
-   "events24h": 7,
+   "events24h": 5,
    "doing": "Standing by"
   },
   {
@@ -85,7 +85,7 @@
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
    "lastActive": 1795116253682,
-   "events24h": 6,
+   "events24h": 5,
    "doing": "Standing by"
   },
   {
@@ -94,7 +94,7 @@
    "cluster": "brand",
    "role": "Social media expert — content, captions, growth, and channel strategy across platforms.",
    "lastActive": 1795113851707,
-   "events24h": 9,
+   "events24h": 6,
    "doing": "Standing by"
   },
   {
@@ -130,7 +130,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795150405444,
-   "events24h": 27,
+   "events24h": 24,
    "doing": "Standing by"
   },
   {
@@ -139,7 +139,7 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795150457930,
-   "events24h": 81,
+   "events24h": 61,
    "doing": "Standing by"
   }
  ],
