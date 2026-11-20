@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795211490900,
+ "generatedAt": 1795212665238,
  "clusters": [
   {
    "key": "leadership",
@@ -75,18 +75,18 @@
    "name": "Web Architect",
    "cluster": "build",
    "role": "Dom's Web Architect.",
-   "lastActive": 1795113828991,
-   "events24h": 0,
-   "doing": "Idle"
+   "lastActive": 1795176718017,
+   "events24h": 1,
+   "doing": "Standing by"
   },
   {
    "id": "f129d52356",
    "name": "Executive Assistant",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795116253682,
-   "events24h": 0,
-   "doing": "Idle"
+   "lastActive": 1795212641172,
+   "events24h": 6,
+   "doing": "Working"
   },
   {
    "id": "cb199ff9ed",
@@ -129,8 +129,8 @@
    "name": "Chief Of Staff",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
-   "lastActive": 1795150405444,
-   "events24h": 3,
+   "lastActive": 1795185522463,
+   "events24h": 4,
    "doing": "Standing by"
   },
   {
@@ -144,6 +144,46 @@
   }
  ],
  "recent": [
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795212641172
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795212632400
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795185522463
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795184478086
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795179963116
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795179959938
+  },
+  {
+   "bot": "92bec0342b",
+   "kind": "reply",
+   "t": 1795176718017
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795154969495
+  },
   {
    "bot": "73c302280f",
    "kind": "reply",
