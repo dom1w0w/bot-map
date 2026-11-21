@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795236361795,
+ "generatedAt": 1795236452193,
  "clusters": [
   {
    "key": "leadership",
@@ -129,21 +129,96 @@
    "name": "Chief Of Staff",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
-   "lastActive": 1795185522463,
-   "events24h": 4,
-   "doing": "Standing by"
+   "lastActive": 1795236430796,
+   "events24h": 11,
+   "doing": "Working"
   },
   {
    "id": "e0f5d1b2f5",
    "name": "Lilith",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795150457930,
-   "events24h": 5,
-   "doing": "Standing by"
+   "lastActive": 1795236446076,
+   "events24h": 13,
+   "doing": "Working"
   }
  ],
  "recent": [
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795236446076
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795236430796
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795236427413
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795236427376
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795236423840
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "message",
+   "t": 1795236420126
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795235993695
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795235991109
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795235977573
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795235973649
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795235973613
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795235959855
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795235953205
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795235949311
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "message",
+   "t": 1795235949262
+  },
   {
    "bot": "f129d52356",
    "kind": "reply",
@@ -268,11 +343,6 @@
    "bot": "e0f5d1b2f5",
    "kind": "reply",
    "t": 1795150124044
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "message",
-   "t": 1795150123890
   }
  ]
 }
