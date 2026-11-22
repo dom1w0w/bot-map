@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795349847672,
+ "generatedAt": 1795349938008,
  "clusters": [
   {
    "key": "leadership",
@@ -76,8 +76,8 @@
    "cluster": "build",
    "role": "Dom's Web Architect.",
    "lastActive": 1795263448167,
-   "events24h": 1,
-   "doing": "Standing by"
+   "events24h": 0,
+   "doing": "Idle"
   },
   {
    "id": "f129d52356",
