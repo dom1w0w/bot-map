@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795336422903,
+ "generatedAt": 1795336513300,
  "clusters": [
   {
    "key": "leadership",
@@ -89,15 +89,6 @@
    "doing": "Standing by"
   },
   {
-   "id": "cb199ff9ed",
-   "name": "Cosmic Terminal",
-   "cluster": "brand",
-   "role": "Social media expert — content, captions, growth, and channel strategy across platforms.",
-   "lastActive": null,
-   "events24h": 0,
-   "doing": "Idle"
-  },
-  {
    "id": "8ef6c6b509",
    "name": "E.D.I.T.H.",
    "cluster": "build",
@@ -112,15 +103,6 @@
    "cluster": "projects",
    "role": "Shared project room.",
    "lastActive": 1794786303915,
-   "events24h": 0,
-   "doing": "Idle"
-  },
-  {
-   "id": "158c1e724d",
-   "name": "Axiom",
-   "cluster": "leadership",
-   "role": "Dom's first-principles thinker.",
-   "lastActive": null,
    "events24h": 0,
    "doing": "Idle"
   },
