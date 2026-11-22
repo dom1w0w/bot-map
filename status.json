@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795322763302,
+ "generatedAt": 1795322853698,
  "clusters": [
   {
    "key": "leadership",
@@ -130,8 +130,8 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795236430796,
-   "events24h": 4,
-   "doing": "Standing by"
+   "events24h": 0,
+   "doing": "Idle"
   },
   {
    "id": "e0f5d1b2f5",
@@ -139,40 +139,9 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795236446076,
-   "events24h": 2,
-   "doing": "Standing by"
+   "events24h": 0,
+   "doing": "Idle"
   }
  ],
- "recent": [
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795236446076
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795236430796
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795236427413
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "message",
-   "t": 1795236427376
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795236423840
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "message",
-   "t": 1795236420126
-  }
- ]
+ "recent": []
 }
