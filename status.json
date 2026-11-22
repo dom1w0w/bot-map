@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795336151803,
+ "generatedAt": 1795336242189,
  "clusters": [
   {
    "key": "leadership",
@@ -54,7 +54,7 @@
   },
   {
    "id": "73c302280f",
-   "name": "Jarvis · Co-CEO",
+   "name": "J.A.R.V.I.S. — Co-CEO",
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795334157448,
@@ -63,7 +63,7 @@
   },
   {
    "id": "972d8ca6dc",
-   "name": "Chief Financial advisor",
+   "name": "Vision",
    "cluster": "operations",
    "role": "Dom's ongoing financial advisor — bills, debt payoff, cash flow, paychecks, and long-term stacking beyond the Vegas trip.",
    "lastActive": 1795115690158,
@@ -81,7 +81,7 @@
   },
   {
    "id": "f129d52356",
-   "name": "Executive Assistant",
+   "name": "Karen",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
    "lastActive": 1795283815728,
@@ -99,7 +99,7 @@
   },
   {
    "id": "8ef6c6b509",
-   "name": "Live Bot Map",
+   "name": "E.D.I.T.H.",
    "cluster": "build",
    "role": "Builds and runs a live, animated map of every bot you run.",
    "lastActive": 1795066013107,
@@ -126,7 +126,7 @@
   },
   {
    "id": "3948652ff2",
-   "name": "Chief Of Staff",
+   "name": "Veronica",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795322430289,
@@ -135,7 +135,7 @@
   },
   {
    "id": "e0f5d1b2f5",
-   "name": "Lilith",
+   "name": "F.R.I.D.A.Y.",
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795333626082,
