@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795334343792,
+ "generatedAt": 1795334434185,
  "clusters": [
   {
    "key": "leadership",
@@ -54,7 +54,7 @@
   },
   {
    "id": "73c302280f",
-   "name": "Alfred · Co-CEO",
+   "name": "Jarvis · Co-CEO",
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795334157448,
@@ -93,7 +93,7 @@
    "name": "Cosmic Terminal",
    "cluster": "brand",
    "role": "Social media expert — content, captions, growth, and channel strategy across platforms.",
-   "lastActive": 1795113851707,
+   "lastActive": null,
    "events24h": 0,
    "doing": "Idle"
   },
@@ -120,7 +120,7 @@
    "name": "Axiom",
    "cluster": "leadership",
    "role": "Dom's first-principles thinker.",
-   "lastActive": 1794885042912,
+   "lastActive": null,
    "events24h": 0,
    "doing": "Idle"
   },
