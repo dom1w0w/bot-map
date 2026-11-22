@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795336242189,
+ "generatedAt": 1795336332566,
  "clusters": [
   {
    "key": "leadership",
@@ -45,7 +45,7 @@
   },
   {
    "id": "4be23a2450",
-   "name": "Graphic Designer",
+   "name": "U",
    "cluster": "brand",
    "role": "Dom's graphic designer for 7EightMade and Cosmic Terminal — create and refine images, layouts, and brand assets.",
    "lastActive": 1795113847636,
@@ -72,7 +72,7 @@
   },
   {
    "id": "92bec0342b",
-   "name": "Web Architect",
+   "name": "DUM-E",
    "cluster": "build",
    "role": "Dom's Web Architect.",
    "lastActive": 1795263448167,
