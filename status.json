@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795396243377,
+ "generatedAt": 1795396333782,
  "clusters": [
   {
    "key": "leadership",
@@ -84,9 +84,9 @@
    "name": "Karen",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795353005739,
-   "events24h": 2,
-   "doing": "Standing by"
+   "lastActive": 1795396294804,
+   "events24h": 3,
+   "doing": "Working"
   },
   {
    "id": "4be86c6a96",
@@ -129,12 +129,27 @@
    "name": "F.R.I.D.A.Y.",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795365809937,
-   "events24h": 24,
-   "doing": "Standing by"
+   "lastActive": 1795396330980,
+   "events24h": 26,
+   "doing": "Working"
   }
  ],
  "recent": [
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795396330980
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795396324089
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795396294804
+  },
   {
    "bot": "e0f5d1b2f5",
    "kind": "reply",
@@ -319,21 +334,6 @@
    "bot": "e0f5d1b2f5",
    "kind": "message",
    "t": 1795340842014
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795340829780
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "message",
-   "t": 1795340826990
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795340823916
   }
  ]
 }
