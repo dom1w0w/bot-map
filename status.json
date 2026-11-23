@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795412777054,
+ "generatedAt": 1795414365258,
  "clusters": [
   {
    "key": "leadership",
@@ -84,8 +84,8 @@
    "name": "Karen",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795412718247,
-   "events24h": 8,
+   "lastActive": 1795414346188,
+   "events24h": 11,
    "doing": "Working"
   },
   {
@@ -135,6 +135,21 @@
   }
  ],
  "recent": [
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795414346188
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795414338912
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795414293876
+  },
   {
    "bot": "f129d52356",
    "kind": "reply",
@@ -319,21 +334,6 @@
    "bot": "972d8ca6dc",
    "kind": "message",
    "t": 1795409107372
-  },
-  {
-   "bot": "8ef6c6b509",
-   "kind": "reply",
-   "t": 1795409098688
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795409096346
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "message",
-   "t": 1795409096174
   }
  ]
 }
