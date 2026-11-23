@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795410910837,
+ "generatedAt": 1795412685703,
  "clusters": [
   {
    "key": "leadership",
@@ -59,7 +59,7 @@
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795410607906,
    "events24h": 40,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "972d8ca6dc",
@@ -68,7 +68,7 @@
    "role": "Dom's ongoing financial advisor — bills, debt payoff, cash flow, paychecks, and long-term stacking beyond the Vegas trip.",
    "lastActive": 1795410584044,
    "events24h": 6,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "92bec0342b",
@@ -86,7 +86,7 @@
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
    "lastActive": 1795410511165,
    "events24h": 6,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "4be86c6a96",
@@ -122,7 +122,7 @@
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795410816404,
    "events24h": 16,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "e0f5d1b2f5",
@@ -131,7 +131,7 @@
    "role": "Bot.",
    "lastActive": 1795410604098,
    "events24h": 41,
-   "doing": "Working"
+   "doing": "Standing by"
   }
  ],
  "recent": [
