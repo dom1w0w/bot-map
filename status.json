@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795410819576,
+ "generatedAt": 1795410910837,
  "clusters": [
   {
    "key": "leadership",
@@ -120,8 +120,8 @@
    "name": "Veronica",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
-   "lastActive": 1795410809794,
-   "events24h": 15,
+   "lastActive": 1795410816404,
+   "events24h": 16,
    "doing": "Working"
   },
   {
@@ -135,6 +135,11 @@
   }
  ],
  "recent": [
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795410816404
+  },
   {
    "bot": "3948652ff2",
    "kind": "message",
@@ -329,11 +334,6 @@
    "bot": "8ef6c6b509",
    "kind": "message",
    "t": 1795409094678
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795409071150
   }
  ]
 }
