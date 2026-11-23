@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795394938730,
+ "generatedAt": 1795395029111,
  "clusters": [
   {
    "key": "leadership",
@@ -57,8 +57,8 @@
    "name": "J.A.R.V.I.S. — Co-CEO",
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
-   "lastActive": 1795364403861,
-   "events24h": 25,
+   "lastActive": 1795365809819,
+   "events24h": 26,
    "doing": "Standing by"
   },
   {
@@ -129,12 +129,22 @@
    "name": "F.R.I.D.A.Y.",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795364428351,
-   "events24h": 23,
+   "lastActive": 1795365809937,
+   "events24h": 24,
    "doing": "Standing by"
   }
  ],
  "recent": [
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795365809937
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "message",
+   "t": 1795365809819
+  },
   {
    "bot": "e0f5d1b2f5",
    "kind": "reply",
@@ -324,16 +334,6 @@
    "bot": "73c302280f",
    "kind": "reply",
    "t": 1795340823916
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "message",
-   "t": 1795340820428
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795338946422
   }
  ]
 }
