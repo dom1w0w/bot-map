@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795415910113,
+ "generatedAt": 1795416001453,
  "clusters": [
   {
    "key": "leadership",
@@ -120,21 +120,56 @@
    "name": "Veronica",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
-   "lastActive": 1795410816404,
-   "events24h": 16,
-   "doing": "Standing by"
+   "lastActive": 1795415978339,
+   "events24h": 19,
+   "doing": "Working"
   },
   {
    "id": "e0f5d1b2f5",
    "name": "F.R.I.D.A.Y.",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795414514233,
-   "events24h": 49,
-   "doing": "Standing by"
+   "lastActive": 1795415994565,
+   "events24h": 53,
+   "doing": "Working"
   }
  ],
  "recent": [
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795415994565
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795415978339
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795415972817
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795415972783
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795415956618
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795415942983
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "message",
+   "t": 1795415942906
+  },
   {
    "bot": "f129d52356",
    "kind": "reply",
@@ -299,41 +334,6 @@
    "bot": "972d8ca6dc",
    "kind": "reply",
    "t": 1795410584044
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795410582510
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795410580015
-  },
-  {
-   "bot": "972d8ca6dc",
-   "kind": "reply",
-   "t": 1795410579069
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795410570202
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "message",
-   "t": 1795410570146
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795410567327
-  },
-  {
-   "bot": "972d8ca6dc",
-   "kind": "message",
-   "t": 1795410567283
   }
  ]
 }
