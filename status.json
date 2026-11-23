@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795396605028,
+ "generatedAt": 1795396695464,
  "clusters": [
   {
    "key": "leadership",
@@ -120,21 +120,41 @@
    "name": "Veronica",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
-   "lastActive": 1795363793763,
-   "events24h": 7,
-   "doing": "Standing by"
+   "lastActive": 1795396617060,
+   "events24h": 9,
+   "doing": "Working"
   },
   {
    "id": "e0f5d1b2f5",
    "name": "F.R.I.D.A.Y.",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795396330980,
-   "events24h": 26,
+   "lastActive": 1795396622901,
+   "events24h": 28,
    "doing": "Working"
   }
  ],
  "recent": [
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795396622901
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795396617060
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795396609643
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "message",
+   "t": 1795396609590
+  },
   {
    "bot": "73c302280f",
    "kind": "reply",
@@ -314,26 +334,6 @@
    "bot": "73c302280f",
    "kind": "reply",
    "t": 1795340857629
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795340855536
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795340853272
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795340853180
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795340848788
   }
  ]
 }
