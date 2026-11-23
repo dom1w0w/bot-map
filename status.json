@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795426723266,
+ "generatedAt": 1795427382265,
  "clusters": [
   {
    "key": "leadership",
@@ -58,7 +58,7 @@
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795414493766,
-   "events24h": 42,
+   "events24h": 29,
    "doing": "Standing by"
   },
   {
@@ -121,7 +121,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795415978339,
-   "events24h": 19,
+   "events24h": 18,
    "doing": "Standing by"
   },
   {
@@ -130,7 +130,7 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795415994565,
-   "events24h": 48,
+   "events24h": 47,
    "doing": "Standing by"
   }
  ],
