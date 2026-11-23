@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795410546881,
+ "generatedAt": 1795410819576,
  "clusters": [
   {
    "key": "leadership",
@@ -57,18 +57,18 @@
    "name": "J.A.R.V.I.S. — Co-CEO",
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
-   "lastActive": 1795409212058,
-   "events24h": 37,
-   "doing": "Standing by"
+   "lastActive": 1795410607906,
+   "events24h": 40,
+   "doing": "Working"
   },
   {
    "id": "972d8ca6dc",
    "name": "Vision",
    "cluster": "operations",
    "role": "Dom's ongoing financial advisor — bills, debt payoff, cash flow, paychecks, and long-term stacking beyond the Vegas trip.",
-   "lastActive": 1795409164599,
-   "events24h": 3,
-   "doing": "Standing by"
+   "lastActive": 1795410584044,
+   "events24h": 6,
+   "doing": "Working"
   },
   {
    "id": "92bec0342b",
@@ -84,9 +84,9 @@
    "name": "Karen",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795408598081,
-   "events24h": 4,
-   "doing": "Standing by"
+   "lastActive": 1795410511165,
+   "events24h": 6,
+   "doing": "Working"
   },
   {
    "id": "4be86c6a96",
@@ -120,21 +120,106 @@
    "name": "Veronica",
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
-   "lastActive": 1795409194215,
-   "events24h": 11,
-   "doing": "Standing by"
+   "lastActive": 1795410809794,
+   "events24h": 15,
+   "doing": "Working"
   },
   {
    "id": "e0f5d1b2f5",
    "name": "F.R.I.D.A.Y.",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795409206987,
-   "events24h": 36,
-   "doing": "Standing by"
+   "lastActive": 1795410604098,
+   "events24h": 41,
+   "doing": "Working"
   }
  ],
  "recent": [
+  {
+   "bot": "3948652ff2",
+   "kind": "message",
+   "t": 1795410809794
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795410798004
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795410607906
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795410604132
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "message",
+   "t": 1795410604098
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795410594642
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "message",
+   "t": 1795410594606
+  },
+  {
+   "bot": "972d8ca6dc",
+   "kind": "reply",
+   "t": 1795410584044
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "reply",
+   "t": 1795410582510
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795410580015
+  },
+  {
+   "bot": "972d8ca6dc",
+   "kind": "reply",
+   "t": 1795410579069
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795410570202
+  },
+  {
+   "bot": "3948652ff2",
+   "kind": "message",
+   "t": 1795410570146
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795410567327
+  },
+  {
+   "bot": "972d8ca6dc",
+   "kind": "message",
+   "t": 1795410567283
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795410511165
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795409689867
+  },
   {
    "bot": "73c302280f",
    "kind": "reply",
@@ -249,91 +334,6 @@
    "bot": "e0f5d1b2f5",
    "kind": "reply",
    "t": 1795409071150
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795409068095
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "message",
-   "t": 1795409068050
-  },
-  {
-   "bot": "f129d52356",
-   "kind": "reply",
-   "t": 1795408598081
-  },
-  {
-   "bot": "4be86c6a96",
-   "kind": "reply",
-   "t": 1795407129191
-  },
-  {
-   "bot": "4be86c6a96",
-   "kind": "reply",
-   "t": 1795407082494
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795396847699
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795396845704
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795396821685
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795396818829
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "message",
-   "t": 1795396818785
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795396622901
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "reply",
-   "t": 1795396617060
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795396609643
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "message",
-   "t": 1795396609590
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795396407339
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "message",
-   "t": 1795396403967
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795396378067
   }
  ]
 }
