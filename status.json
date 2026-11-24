@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795495533205,
+ "generatedAt": 1795495625231,
  "clusters": [
   {
    "key": "leadership",
@@ -58,7 +58,7 @@
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795452460658,
-   "events24h": 26,
+   "events24h": 23,
    "doing": "Standing by"
   },
   {
@@ -67,7 +67,7 @@
    "cluster": "operations",
    "role": "Dom's ongoing financial advisor — bills, debt payoff, cash flow, paychecks, and long-term stacking beyond the Vegas trip.",
    "lastActive": 1795452429025,
-   "events24h": 7,
+   "events24h": 5,
    "doing": "Standing by"
   },
   {
@@ -103,7 +103,7 @@
    "cluster": "build",
    "role": "Builds and runs a live, animated map of every bot you run.",
    "lastActive": 1795452434005,
-   "events24h": 4,
+   "events24h": 3,
    "doing": "Standing by"
   },
   {
@@ -121,7 +121,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795452411149,
-   "events24h": 15,
+   "events24h": 12,
    "doing": "Standing by"
   },
   {
@@ -130,7 +130,7 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795452448386,
-   "events24h": 38,
+   "events24h": 33,
    "doing": "Standing by"
   }
  ],
