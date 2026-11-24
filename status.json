@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795536915963,
+ "generatedAt": 1795538699425,
  "clusters": [
   {
    "key": "leadership",
@@ -94,7 +94,7 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795452432231,
-   "events24h": 4,
+   "events24h": 2,
    "doing": "Standing by"
   },
   {
@@ -304,16 +304,6 @@
    "bot": "73c302280f",
    "kind": "message",
    "t": 1795452356779
-  },
-  {
-   "bot": "4be86c6a96",
-   "kind": "reply",
-   "t": 1795452248656
-  },
-  {
-   "bot": "4be86c6a96",
-   "kind": "message",
-   "t": 1795452239364
   }
  ]
 }
