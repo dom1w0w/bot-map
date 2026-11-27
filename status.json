@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795807088546,
+ "generatedAt": 1795808123959,
  "clusters": [
   {
    "key": "leadership",
@@ -195,7 +195,7 @@
    "role": "Bot.",
    "lastActive": 1795806872057,
    "events24h": 13,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "f91acbe015",
