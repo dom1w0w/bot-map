@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795774637290,
+ "generatedAt": 1795774728592,
  "clusters": [
   {
    "key": "leadership",
@@ -67,8 +67,8 @@
    "name": "J.A.R.V.I.S. — Co-CEO",
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
-   "lastActive": 1795774630083,
-   "events24h": 123,
+   "lastActive": 1795774721728,
+   "events24h": 130,
    "doing": "Working"
   },
   {
@@ -199,6 +199,41 @@
   }
  ],
  "recent": [
+  {
+   "bot": "73c302280f",
+   "kind": "message",
+   "t": 1795774721728
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795774716026
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "message",
+   "t": 1795774698502
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795774684833
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "message",
+   "t": 1795774680966
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795774680206
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795774635156
+  },
   {
    "bot": "73c302280f",
    "kind": "message",
@@ -363,41 +398,6 @@
    "bot": "8ef6c6b509",
    "kind": "reply",
    "t": 1795774018566
-  },
-  {
-   "bot": "8ef6c6b509",
-   "kind": "reply",
-   "t": 1795774016415
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795773938264
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795773935959
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795773933985
-  },
-  {
-   "bot": "f91acbe015",
-   "kind": "message",
-   "t": 1795773933932
-  },
-  {
-   "bot": "f91acbe015",
-   "kind": "reply",
-   "t": 1795773912823
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "message",
-   "t": 1795773912778
   }
  ]
 }
