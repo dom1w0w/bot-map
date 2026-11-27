@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795773120483,
+ "generatedAt": 1795773301837,
  "clusters": [
   {
    "key": "leadership",
@@ -168,7 +168,7 @@
    "role": "Tier 3 · flowcharts",
    "lastActive": 1795772645487,
    "events24h": 23,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "a6e41e4ea0",
