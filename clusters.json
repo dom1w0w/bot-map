@@ -62,7 +62,8 @@
     "f3bf7934-11c9-4f5f-8bc2-6ea3d72181ca": "tier3",
     "451ce1eb-7dab-452f-bd81-526ca065d6a2": "outside",
     "903d91f0-af5f-43d0-8170-7b5cae96d577": "outside",
-    "f84d541a-7671-41c8-8132-df438a4af468": "tier3"
+    "f84d541a-7671-41c8-8132-df438a4af468": "tier3",
+    "147e257d-cfc2-46f9-9d9c-c3315af45215": "tier3"
   },
   "labels": {
     "b15ad3de-88e9-4ddd-ab46-97443043efae": "Bot Terminator",
@@ -76,6 +77,7 @@
     "f3bf7934-11c9-4f5f-8bc2-6ea3d72181ca": "Tier 3 · privacy removals",
     "451ce1eb-7dab-452f-bd81-526ca065d6a2": "Outside the tiers · sky alerts",
     "903d91f0-af5f-43d0-8170-7b5cae96d577": "Outside the tiers · red team",
-    "f84d541a-7671-41c8-8132-df438a4af468": "Tier 3 · bookkeeping"
+    "f84d541a-7671-41c8-8132-df438a4af468": "Tier 3 · bookkeeping",
+    "147e257d-cfc2-46f9-9d9c-c3315af45215": "Tier 3 · verification"
   }
 }
