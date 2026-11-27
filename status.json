@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795775545351,
+ "generatedAt": 1795775636845,
  "clusters": [
   {
    "key": "leadership",
@@ -186,7 +186,7 @@
    "role": "Tier 3 · privacy removals",
    "lastActive": 1795775014356,
    "events24h": 33,
-   "doing": "Working"
+   "doing": "Standing by"
   },
   {
    "id": "e0f5d1b2f5",
