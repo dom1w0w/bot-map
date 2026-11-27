@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795774065517,
+ "generatedAt": 1795774156884,
  "clusters": [
   {
    "key": "leadership",
@@ -67,8 +67,8 @@
    "name": "J.A.R.V.I.S. — Co-CEO",
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
-   "lastActive": 1795774045664,
-   "events24h": 97,
+   "lastActive": 1795774131395,
+   "events24h": 100,
    "doing": "Working"
   },
   {
@@ -130,8 +130,8 @@
    "name": "E.D.I.T.H.",
    "cluster": "build",
    "role": "Builds and runs a live, animated map of every bot you run.",
-   "lastActive": 1795774041083,
-   "events24h": 8,
+   "lastActive": 1795774150668,
+   "events24h": 10,
    "doing": "Working"
   },
   {
@@ -199,6 +199,31 @@
   }
  ],
  "recent": [
+  {
+   "bot": "8ef6c6b509",
+   "kind": "reply",
+   "t": 1795774150668
+  },
+  {
+   "bot": "8ef6c6b509",
+   "kind": "reply",
+   "t": 1795774149797
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795774131395
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795774111486
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "message",
+   "t": 1795774108469
+  },
   {
    "bot": "73c302280f",
    "kind": "reply",
@@ -373,31 +398,6 @@
    "bot": "73c302280f",
    "kind": "reply",
    "t": 1795772905173
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795772899877
-  },
-  {
-   "bot": "3948652ff2",
-   "kind": "message",
-   "t": 1795772899830
-  },
-  {
-   "bot": "e0f5d1b2f5",
-   "kind": "reply",
-   "t": 1795772897349
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "message",
-   "t": 1795772897299
-  },
-  {
-   "bot": "8ef6c6b509",
-   "kind": "reply",
-   "t": 1795772890540
   }
  ]
 }
