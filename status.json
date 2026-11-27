@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795805467207,
+ "generatedAt": 1795806255043,
  "clusters": [
   {
    "key": "leadership",
@@ -67,8 +67,8 @@
    "name": "Forge · Verifier",
    "cluster": "tier3",
    "role": "Tier 3 · verification",
-   "lastActive": 1795779052932,
-   "events24h": 10,
+   "lastActive": 1795805614504,
+   "events24h": 13,
    "doing": "Standing by"
   },
   {
@@ -76,8 +76,8 @@
    "name": "J.A.R.V.I.S. — Co-CEO",
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
-   "lastActive": 1795803324243,
-   "events24h": 184,
+   "lastActive": 1795805620498,
+   "events24h": 188,
    "doing": "Standing by"
   },
   {
@@ -112,8 +112,8 @@
    "name": "Karen",
    "cluster": "operations",
    "role": "Dom's executive assistant — calendar, scheduling, meeting prep, follow-ups, travel logistics, and admin tasks.",
-   "lastActive": 1795785264728,
-   "events24h": 6,
+   "lastActive": 1795804797858,
+   "events24h": 7,
    "doing": "Standing by"
   },
   {
@@ -193,8 +193,8 @@
    "name": "F.R.I.D.A.Y.",
    "cluster": "other",
    "role": "Bot.",
-   "lastActive": 1795774895368,
-   "events24h": 11,
+   "lastActive": 1795805219081,
+   "events24h": 12,
    "doing": "Standing by"
   },
   {
@@ -208,6 +208,51 @@
   }
  ],
  "recent": [
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795805620498
+  },
+  {
+   "bot": "5011b420ce",
+   "kind": "reply",
+   "t": 1795805614504
+  },
+  {
+   "bot": "5011b420ce",
+   "kind": "reply",
+   "t": 1795805609774
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "message",
+   "t": 1795805609715
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "reply",
+   "t": 1795805230555
+  },
+  {
+   "bot": "5011b420ce",
+   "kind": "message",
+   "t": 1795805230490
+  },
+  {
+   "bot": "e0f5d1b2f5",
+   "kind": "reply",
+   "t": 1795805219081
+  },
+  {
+   "bot": "73c302280f",
+   "kind": "message",
+   "t": 1795805219025
+  },
+  {
+   "bot": "f129d52356",
+   "kind": "reply",
+   "t": 1795804797858
+  },
   {
    "bot": "73c302280f",
    "kind": "reply",
@@ -362,51 +407,6 @@
    "bot": "73c302280f",
    "kind": "reply",
    "t": 1795778287331
-  },
-  {
-   "bot": "5011b420ce",
-   "kind": "message",
-   "t": 1795778287272
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795777674386
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795777611724
-  },
-  {
-   "bot": "5011b420ce",
-   "kind": "reply",
-   "t": 1795777598661
-  },
-  {
-   "bot": "5011b420ce",
-   "kind": "reply",
-   "t": 1795777592434
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "message",
-   "t": 1795777592386
-  },
-  {
-   "bot": "5011b420ce",
-   "kind": "reply",
-   "t": 1795776802492
-  },
-  {
-   "bot": "73c302280f",
-   "kind": "reply",
-   "t": 1795776773387
-  },
-  {
-   "bot": "5011b420ce",
-   "kind": "message",
-   "t": 1795776773304
   }
  ]
 }
