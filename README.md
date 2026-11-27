@@ -17,7 +17,7 @@ cd /workspace/bot-map && pkill -f "python3 refresher.py"; setsid nohup python3 r
 Stop it: `kill $(cat /workspace/bot-map/refresher.pid)` · Logs: `tail -f /workspace/bot-map/refresher.log`
 
 ## Regroup bots
-Edit `clusters.json` in this repo. It maps agent ids to cluster keys, and any unmapped or new bot lands in **Other**. Then sync it to the box copy at `/workspace/bot-map/site/clusters.json` (`git -C /workspace/bot-map/site pull`). The next refresh picks it up.
+Edit `clusters.json` in this repo. It maps agent ids to cluster keys, and any unmapped or new bot lands in **Other**. Use `labels` to override a display name and `roles` to set a fixed public role (required when a bot's profile description could leak money, contact details, opt-out site names, or other private detail). Then sync it to the box copy at `/workspace/bot-map/site/clusters.json` (`git -C /workspace/bot-map/site pull`). The next refresh picks it up.
 
 ## Privacy
-`status.json` holds only: display name, cluster, a cleaned first-sentence role (links, emails and paths are stripped), last-active time, 24h event count, a generic "doing now" label, and a list of recent event timestamps with their kind (reply/message). No message content, prompts, URLs, emails or secrets. Pages carry `noindex` and `robots.txt` disallows all crawling.
+`status.json` holds only: display name, cluster, a public role (a `roles` override from `clusters.json`, or a cleaned first-sentence role with links, emails and paths stripped), last-active time, 24h event count, a generic "doing now" label, and a list of recent event timestamps with their kind (reply/message). No message content, prompts, URLs, emails, money amounts, contact details, opt-out or data-broker site names, or secrets. Pages carry `noindex` and `robots.txt` disallows all crawling.
