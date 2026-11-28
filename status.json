@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795857285825,
+ "generatedAt": 1795857386427,
  "clusters": [
   {
    "key": "leadership",
@@ -176,7 +176,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · flowcharts",
    "lastActive": 1795772645487,
-   "events24h": 19,
+   "events24h": 17,
    "doing": "Standing by"
   },
   {
@@ -185,7 +185,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · privacy removals",
    "lastActive": 1795775014356,
-   "events24h": 27,
+   "events24h": 24,
    "doing": "Standing by"
   },
   {
