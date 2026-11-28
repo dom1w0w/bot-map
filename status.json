@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795853636452,
+ "generatedAt": 1795855298079,
  "clusters": [
   {
    "key": "leadership",
@@ -77,7 +77,7 @@
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795828279576,
-   "events24h": 191,
+   "events24h": 163,
    "doing": "Standing by"
   },
   {
@@ -104,7 +104,7 @@
    "cluster": "outside",
    "role": "Outside the tiers · sky alerts",
    "lastActive": 1795810976854,
-   "events24h": 9,
+   "events24h": 8,
    "doing": "Standing by"
   },
   {
@@ -122,7 +122,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · card picks",
    "lastActive": 1795771445360,
-   "events24h": 7,
+   "events24h": 5,
    "doing": "Standing by"
   },
   {
@@ -167,7 +167,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · work desk (pending Dom's confirmation)",
    "lastActive": 1795775056147,
-   "events24h": 13,
+   "events24h": 4,
    "doing": "Standing by"
   },
   {
@@ -185,7 +185,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · privacy removals",
    "lastActive": 1795775014356,
-   "events24h": 33,
+   "events24h": 31,
    "doing": "Standing by"
   },
   {
