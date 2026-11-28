@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795857285825,
+ "generatedAt": 1795859018736,
  "clusters": [
   {
    "key": "leadership",
@@ -77,7 +77,7 @@
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795828279576,
-   "events24h": 163,
+   "events24h": 133,
    "doing": "Standing by"
   },
   {
@@ -104,7 +104,7 @@
    "cluster": "outside",
    "role": "Outside the tiers · sky alerts",
    "lastActive": 1795810976854,
-   "events24h": 5,
+   "events24h": 1,
    "doing": "Standing by"
   },
   {
@@ -122,8 +122,8 @@
    "cluster": "tier3",
    "role": "Tier 3 · card picks",
    "lastActive": 1795771445360,
-   "events24h": 5,
-   "doing": "Standing by"
+   "events24h": 0,
+   "doing": "Idle"
   },
   {
    "id": "4be86c6a96",
@@ -167,7 +167,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · work desk (pending Dom's confirmation)",
    "lastActive": 1795775056147,
-   "events24h": 4,
+   "events24h": 2,
    "doing": "Standing by"
   },
   {
@@ -176,7 +176,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · flowcharts",
    "lastActive": 1795772645487,
-   "events24h": 19,
+   "events24h": 1,
    "doing": "Standing by"
   },
   {
@@ -185,7 +185,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · privacy removals",
    "lastActive": 1795775014356,
-   "events24h": 27,
+   "events24h": 3,
    "doing": "Standing by"
   },
   {
@@ -203,7 +203,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · bookkeeping",
    "lastActive": 1795773933932,
-   "events24h": 15,
+   "events24h": 3,
    "doing": "Standing by"
   }
  ],
