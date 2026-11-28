@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795860614292,
+ "generatedAt": 1795862683314,
  "clusters": [
   {
    "key": "leadership",
@@ -68,7 +68,7 @@
    "cluster": "tier3",
    "role": "Tier 3 · verification",
    "lastActive": 1795805614504,
-   "events24h": 13,
+   "events24h": 10,
    "doing": "Standing by"
   },
   {
@@ -77,7 +77,7 @@
    "cluster": "leadership",
    "role": "Dom's co-CEO for 7EightMade, alongside Dom.",
    "lastActive": 1795828279576,
-   "events24h": 99,
+   "events24h": 40,
    "doing": "Standing by"
   },
   {
@@ -95,7 +95,7 @@
    "cluster": "build",
    "role": "Dom's Web Architect.",
    "lastActive": 1795781663105,
-   "events24h": 4,
+   "events24h": 2,
    "doing": "Standing by"
   },
   {
@@ -140,8 +140,8 @@
    "cluster": "build",
    "role": "Builds and runs a live, animated map of every bot you run.",
    "lastActive": 1795775200908,
-   "events24h": 3,
-   "doing": "Standing by"
+   "events24h": 0,
+   "doing": "Idle"
   },
   {
    "id": "cacb6cd5a8",
@@ -158,7 +158,7 @@
    "cluster": "leadership",
    "role": "Dom's Chief of Staff — owns coordinating the other agents, handoffs, and keeping the team aligned.",
    "lastActive": 1795790144085,
-   "events24h": 3,
+   "events24h": 1,
    "doing": "Standing by"
   },
   {
@@ -167,8 +167,8 @@
    "cluster": "tier3",
    "role": "Tier 3 · work desk (pending Dom's confirmation)",
    "lastActive": 1795775056147,
-   "events24h": 2,
-   "doing": "Standing by"
+   "events24h": 0,
+   "doing": "Idle"
   },
   {
    "id": "a0d44d29c4",
@@ -185,8 +185,8 @@
    "cluster": "tier3",
    "role": "Tier 3 · privacy removals",
    "lastActive": 1795775014356,
-   "events24h": 1,
-   "doing": "Standing by"
+   "events24h": 0,
+   "doing": "Idle"
   },
   {
    "id": "e0f5d1b2f5",
@@ -194,7 +194,7 @@
    "cluster": "other",
    "role": "Bot.",
    "lastActive": 1795826877788,
-   "events24h": 15,
+   "events24h": 13,
    "doing": "Standing by"
   },
   {
